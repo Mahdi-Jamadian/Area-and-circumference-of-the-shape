@@ -1,0 +1,3 @@
+G:/project/C/Area and circumference of the shape/cmake-build-debug/CMakeFiles/Area_and_circumference_of_the_shape.dir
+G:/project/C/Area and circumference of the shape/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/project/C/Area and circumference of the shape/cmake-build-debug/CMakeFiles/rebuild_cache.dir
